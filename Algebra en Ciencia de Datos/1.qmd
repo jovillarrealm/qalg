@@ -1,0 +1,103 @@
+---
+title: "1"
+---
+
+3 examenes 17%
+1 proyecto
+Proyecto integrador de materias 35%
+
+Profe:
+dffonsecav@eafit.edu.co
+lunes 2-3pm, virtual.
+
+## Representaciones de datos mediante Tensores
+
+ndarrays, and shit 
+### escalar
+numero.
+orden 0
+$a \in \mathbb{R}$
+### vector
+un vector es un conjunto ordenado de $n$ números. El vector tiene dimensión $n$.
+
+hay vector columna (vertical) y renglón (horizontal). 
+
+vector 0, tiene componentes 0.
+
+orden 1
+$v \in \mathbb{R}^n$
+### matriz
+Generalización de vector. Tiene dimensión $m \times n$. 
+
+SI $m=n$ decimos que la matriz es cuadrada.
+
+Dos matrices son iguales si son iguales componente a componente. (deben tener iguales dimensiones)
+
+matriz 0 tiene componentes 0.
+
+Aww se llama así porque es la madre de los determinantes.
+
+orden 2
+$M \in \mathbb{R}^{m\times n}$
+### tensor
+
+dimensiones $d_1\times d_2\times ... \times d_N$ 
+
+ndarray bs
+
+orden $N$
+$M \in \mathbb{R}^{d_1\times d_2\times ... \times d_N}$
+
+#### Ejemplo aplicacion de tensores
+
+en computer vision, imagenes RGB son tensores
+$\mathbb{R}^{Height x Width x Color channels (3 in RGB)}$
+
+Si uno tiene una serie de tiempo (apple stock in time) es un vector. Un panel de varios stocks puede ser una matriz.
+
+### Grafos como matrices
+
+Matriz de adyacencia: $A$ Dice que arcos se conectan con que otros
+
+Matriz de grado $D$ dice el numero de arcos que tiene cada vertice
+
+Matriz Laplaciana $L=D-A$ es útil en analisis espectral de grafos
+
+Contar arboles de minima expansion. #SearchLater
+
+Hay tareas en las diapositivas de dibujar grafos
+
+### Matrices de Frecuencia de Términos
+
+Util en NLP y minería de datos.  Para determinar relevancia de un termino, sirve ver frecuencias. Sirve como representación de datos para redes neuronales. 
+## Optimización divertidas para la vida: SIMD y GEMM
+
+## Mul ADD de matrices
+
+Se $A\in \mathbb{R}^{mxn}$ y $B \in \mathbb{R}^{nxk}$ entonces $C=AB\ \in \mathbb{R}^{mxk}$ 
+
+### Inversas
+
+Una matriz invertible es regular o singular.
+
+no invertible es no singular.
+
+Capital inicial es el del S&P500 el 1 de enero
+
+### Mul Tensor matriz
+
+Vale la pena hacerlo
+
+Producto de hadamard es producto componenete a componente
+
+Producto de contracción de índices: Se suman los valores en los ejes compartidos
+
+### Transposición en tensores
+Aquí hay más que filas y columnas, transponer es permutar las dimensiones y ejes.
+
+### Multiplicacion en modo 1
+
+Si $T\in \mathbb{R}^{3x4x2}$ y $M \in \mathbb{R}^{3x2}$  $TxM=T\in\mathbb{R}^{2x4x2}$
+
+[[Algebra en Ciencia de Datos/2]]
+

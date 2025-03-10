@@ -1,0 +1,101 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"4\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "# Espacio métrico\n",
+        "\n",
+        "Un espacio métrico es un par $(E,d)$ donde\n",
+        "\n",
+        "$E$ es conjunto\n",
+        "\n",
+        "## Métricas en aplicaciones\n",
+        "\n",
+        "Para comparaciones se traduce en diferentes formas de definir distancias...\n",
+        "\n",
+        "Como sea que se definan, usualmente no solo de forma exacta sino que se aproximan (con métodos numéricos) que van a converger (si la métrica permite convergencia, no como una discreta).\n",
+        "\n",
+        "### Notas de convergencia\n",
+        "\n",
+        "Big O Notation for some reason denota la velocidad con la que una secuencia de $\\{x_n\\}$ con la que se aproxima a su límite.\n",
+        "\n",
+        "La razón debe ser porque si uno ve la secuencia como el tamaño del input inicial pero siendo generado one at a time. Así es como complejidad con base en los datos pero los datos son implícitos en un generador (de los elementos de la secuencia).\n",
+        "\n",
+        "k- means funciona muy lindo cuando los datos vienen de mixturas gaussianas (normal multivariada), cuando son como elipses. Otherwise maybe reconsider.\n",
+        "\n",
+        "Vector support machine?\n",
+        "\n",
+        "## Espacios Normados\n",
+        "\n",
+        "Ok es un espacio métrico, pero es un par $(V, ||\\cdot||)$ donde V es ahora un espacio vectorial y la norma.\n",
+        "\n",
+        "#Importante\n",
+        "\n",
+        "No toda métrica proviene de una norma pero toda norma tiene métrica.\n",
+        "\n",
+        "Uno tiene que saber calcular cuantos pasos va a tardar un algoritmo dado una métrica y epsilon para.\n",
+        "\n",
+        "## Normas matriciales\n",
+        "\n",
+        "l espectral se supone que es la euclidiana\n",
+        "\n",
+        "l infinito norma inducida es la suma de filas y se saca el máximo\n",
+        "\n",
+        "l 1 es suma por columnas y se saca el máximo.\n",
+        "\n",
+        "se usa desigualdad de Chebyshev para detección de datos atípicos\n"
+      ],
+      "id": "8f101751"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import polars\n"
+      ],
+      "id": "8ee86738",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "BTW Para detectar outliers se usan las distancias de Mahalanobis\n",
+        "\n",
+        "Esto es un estimador paramétrico (o sa que hay que chequear que se cumplen sus suposiciones)\n",
+        "\n",
+        "Para esto hay que chequear que los datos vengan de gaussianas (normal multivariado, hay tests estadísitcos para chequear)\n",
+        "\n",
+        "También se usan distancias de\n",
+        "\n",
+        "Matrices definidas positivas son matrices donde cada elemento es $a_{ij}\\geq 0$\n",
+        "\n",
+        "En optimización esto garantiza convexidad\n",
+        "\n",
+        "la matriz de covarianza es definida positiva (excepto cuando hay degeneraciones)\n",
+        "\n",
+        "permite definir distancias como $||x||^2_A=<x,Ax>$\n",
+        "\n",
+        "# Tarea, simular normal multivariada"
+      ],
+      "id": "718d8b51"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python313\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

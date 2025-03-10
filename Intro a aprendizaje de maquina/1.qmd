@@ -1,0 +1,22 @@
+# Introducción al aprendizaje de máquina
+
+jclondoaol\@eafit.edu.co
+
+Objetivo de investigación: pregunta de investigación SMART (medible, alcanzable, look it up sweetie).
+
+[Github de la materia](https://github.com/kmilo89/AppliedML-Course-st)
+
+Ejemplo de IA
+
+ROS2 es un OS de robotica, simulable en Gazebo, se usa para IA.
+
+tipos de capas en redes. buscar, convolucionales? filtros?, hm?
+
+Data Governance? who dat
+
+data drift:
+
+CRISP-DM Data mining standard
+
+1.  Comporender el negocio
+2.

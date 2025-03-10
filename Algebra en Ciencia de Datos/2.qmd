@@ -1,0 +1,71 @@
+---
+title: "2"
+---
+# Sistemas de ecuaciones
+
+$Ax=b$  es un sistema de ecuaciones
+
+$Ax=0$ es un sistema homogeneo
+
+### Para solucionar un sistema 
+La técnica es primero solucionar el sistema homogeneo, y sumarle la solucion particular dada .
+Forma escalonada, escalonada reducida.
+
+forma 
+$x^*=x^p+x^0$ 
+
+3, 0, 0, 0, -1, 1
+1, 0, -2, -4, 0, 0
+0, 0, 0, 1, 2, 0
+
+r2+=4r3
+
+3, 0, 0, 0, -1, 1
+1, 0, -2, 0 , 8, 0
+0, 0, 0, 1, 2, 0
+
+r2 in r1
+
+1, 0, -2, 0 , 8, 0
+3, 0, 0, 0, -1, 1
+0, 0, 0, 1, 2, 0
+
+r2-=3r1
+
+1, 0, -2, 0 , 8, 0
+0, 0, 6, 0, -25, 1
+0, 0, 0, 1, 2, 0
+
+r2/6
+
+1, 0, -2, 0 , 8, 0
+0, 0, 1, 0, -25/6, 1
+0, 0, 0, 1, 2, 0
+
+
+
+
+
+
+
+## Matriz de covarianza
+Its fun para analizar relaciones lineal y dispersion de los datos.
+Usada para calcular Pearson.
+Se crea con el vector de medias.
+```python
+a = np.array([[1, 2], [3, 4]])
+np.mean(a)
+2.5
+
+np.mean(a, axis=0)
+array([2., 3.])
+
+np.mean(a, axis=1)
+array([1.5, 3.5])
+```
+## Matriz de correlaciones
+
+## Análisis de datos exploratorios
+
+
+## Análisis de Componentes Principales para reducción de dimensionalidad.

@@ -1,0 +1,131 @@
+# SCRUM
+
+Es un framework para hacer [Agile (Ágil)](#agile-ágil)
+
+Scrum es una pose de Rugby. Se refiere a que tanto en el rugby como en Scrum, el trabajo en equipo es fundamental. En el rugby, los jugadores se unen en el scrum para empujar y luchar por el balón. En Scrum, los equipos se unen para colaborar y alcanzar los objetivos del proyecto.
+
+Ambos enfatizan la importancia de la sincronización, la comunicación y el apoyo mutuo entre los miembros del equipo.
+
+El rugby es un deporte dinámico donde las situaciones cambian constantemente. Los jugadores deben adaptarse y ajustar sus estrategias en tiempo real. De manera similar, Scrum promueve la adaptabilidad a los cambios en los requisitos del proyecto.
+
+## Por qué Scrum
+
+1. Es centrado en el cliente.
+2. Entrega continua permite manejar un paso sostenible, indefinidamente.
+3. Permite manejar un ambiente donde los requisitos cambian constantemente.
+
+Scrum como metodología se compone de (Roles Scrum) y:
+    - 6 Principios Scrum
+    - 5 Aspectos Scrum
+    - 19 Procesos Scrum con fases
+      - Iniciar
+      - Planificar y Estimar
+      - Implementar
+      - Revisar y retrospectiva
+      - Lanzamiento
+    
+
+
+## Principios Scrum 
+
+Son todos obligatorios
+
+1. Control de procesos empíricos:
+
+- Scrum se basa en la experiencia y la observación, no en planes rígidos. Las decisiones se toman en función de lo que se aprende durante el desarrollo.
+- Se promueve la *transparencia*, la *inspección* y la *adaptación* continua. 
+
+2. Autoorganización:
+
+- Los equipos Scrum se autogestionan y deciden cómo realizar el trabajo. Se fomenta la *autonomía* la *consciencia*, *articulación*, y *apropiación*. Se cree que los equipos son más productivos cuando tienen control sobre su propio trabajo.
+
+3. Colaboración:
+
+- Scrum enfatiza la comunicación y la cooperación entre todos los involucrados. Se busca un ambiente de trabajo en equipo donde todos aporten y se apoyen mutuamente. La colaboración entre los interesados, el equipo de desarrollo y el product owner es fundamental.
+
+4. Priorización basada en valor:
+
+- El Product Owner prioriza las funcionalidades del producto según su valor para el cliente. El equipo se enfoca en entregar primero las funcionalidades más importantes. Se busca maximizar el retorno de la inversión al entregar valor de forma temprana y continua.
+
+5. Time-boxing (Bloque de tiempo asignado):
+
+- Los eventos de Scrum tienen una duración fija (time-box). Esto ayuda a mantener el enfoque y la disciplina. Los Sprints son time boxed, al igual que los Daily scrum, el Sprint review y el Sprint retrospective.
+
+6. Desarrollo iterativo:
+
+- El trabajo se divide en ciclos cortos llamados Sprints. En cada Sprint, se entrega un incremento de producto funcional. Esto permite obtener retroalimentación temprana y realizar ajustes continuos.
+
+## Aspectos Scrum
+
+
+- Organización: Este aspecto se refiere a la estructura del equipo Scrum y cómo se organiza para trabajar de manera efectiva. Involucra la definición de roles (como el Product Owner, Scrum Master y el Equipo de Desarrollo) y la forma en que interactúan entre sí.
+- Justificación de Negocio: Se centra en el valor que el proyecto aporta al negocio. Implica comprender las necesidades del cliente, definir los objetivos del producto y asegurarse de que el trabajo del equipo esté alineado con las prioridades del negocio.
+- Calidad: La calidad es un aspecto fundamental en Scrum. Se refiere a la entrega de un producto que cumpla con los estándares de calidad definidos. Esto implica realizar pruebas, revisiones y mejoras continuas a lo largo del proceso de desarrollo.
+- Cambio: Scrum reconoce que los requisitos pueden cambiar durante el desarrollo. Este aspecto se refiere a la capacidad del equipo para adaptarse a los cambios y responder de manera flexible a las nuevas necesidades.
+- Riesgo: Todo proyecto conlleva riesgos. Scrum aborda el riesgo de manera proactiva, identificando y mitigando los posibles problemas que puedan surgir durante el desarrollo.
+
+
+
+### Roles centrales
+
+Propietario del Producto (Product Owner):
+
+    Este rol representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. El Product Owner define la visión del producto, prioriza el backlog del producto y asegura que el equipo de desarrollo comprenda los requisitos.
+
+Scrum Master:
+
+    El Scrum Master es un facilitador que ayuda al equipo Scrum a seguir los principios y prácticas de Scrum. Elimina impedimentos, facilita las reuniones y se asegura de que el equipo esté trabajando de manera efectiva.
+
+Equipo de Desarrollo (Development Team):
+
+    El equipo de desarrollo es responsable de entregar el incremento del producto en cada Sprint. Los miembros del equipo son autoorganizados y multifuncionales, lo que significa que tienen las habilidades necesarias para completar el trabajo.
+
+## Procesos Scrum
+
+A ver, un proyecto tiene un Product Backlog de requisitos priorizados.
+
+Un product owner para hacer eso. Se hace con 19 actividades, metidas en 5 fases.
+
+Hay algunos inputs, outputs y herramientas que pueden o no ser obligatorios.
+
+1. Inicializar:
+   1. Crear vision de producto. Se identifica Product Owner.
+   2. Identificar Scrum Master y Business Stakeholder (como cliente/usuario).
+   3. Formar Scrum Team.
+   4. Desarrollar Epicas.
+   5. Crear un Product Backlog (Priorizado). Las epicas se elaboran y priorizadas.
+   6. Release Planning. Compartible con stakeholders.
+   7. Estimar.
+   8. Crear Historias de usuario. (Usualmente por PO (Product Owner) y requiere al team). 
+   9. Estimar historias de usuario.
+   10. Commit historias de usuario.
+   11. Identificar tareas.
+   12. Estimar Tareas(op).
+   13. Actualizar Backlog.
+2. Implemetar:
+   1. Crear Entregables.
+   2. Conducir la Daily Standup Meeting.
+   3. 
+
+
+
+
+### Agile (Ágil) {#agile-ágil}
+
+#### Enfoque general:
+
+Agile es un enfoque o filosofía para la gestión de proyectos, especialmente en el desarrollo de software. Se centra en la flexibilidad, la adaptación y la entrega continua de valor. Se basa en la idea de que los requisitos de los proyectos pueden cambiar rápidamente, por lo que es importante poder adaptarse a esos cambios. Se busca la colaboración constante con el cliente y la retroalimentación continua.
+
+## Principios clave:
+
+Priorizar la satisfacción del cliente. Aceptar los cambios en los requisitos. Entregar software funcional con frecuencia. Fomentar la colaboración entre los equipos. Promover la mejora continua.
+
+# Scrum
+
+## Marco de trabajo específico:
+
+Scrum es un marco de trabajo ágil específico que ayuda a los equipos a implementar los principios de Agile. Proporciona una estructura para la gestión de proyectos, con roles, eventos y artefactos definidos. Se basa en la división del trabajo en ciclos cortos llamados "sprints". Scrum es la metodología ágil más popular. Elementos clave: - Roles: Product Owner, Scrum Master, Equipo de Desarrollo. - Eventos: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Artefactos: Product Backlog, Sprint Backlog, Incremento.
+
+Relación entre Agile y Scrum
+
+Scrum es una de las muchas formas de implementar Agile. Agile es la filosofía, y Scrum es una forma práctica de ponerla en práctica. Scrum proporciona un marco de trabajo que ayuda a los equipos a ser ágiles. En resumen, podrías decir que todo equipo de Scrum es un equipo Ágil, pero no todos los equipos ágiles utilizan Scrum.

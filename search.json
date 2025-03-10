@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "Intro a aprendizaje de maquina/1.html",
+    "href": "Intro a aprendizaje de maquina/1.html",
+    "title": "Introducción al aprendizaje de máquina",
+    "section": "",
+    "text": "Introducción al aprendizaje de máquina\njclondoaol@eafit.edu.co\nObjetivo de investigación: pregunta de investigación SMART (medible, alcanzable, look it up sweetie).\nGithub de la materia\nEjemplo de IA\nROS2 es un OS de robotica, simulable en Gazebo, se usa para IA.\ntipos de capas en redes. buscar, convolucionales? filtros?, hm?\nData Governance? who dat\ndata drift:\nCRISP-DM Data mining standard\n\nComporender el negocio"
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html",
+    "href": "Gestion de proyectos/scrum_intro.html",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Es un framework para hacer Agile (Ágil)\nScrum es una pose de Rugby. Se refiere a que tanto en el rugby como en Scrum, el trabajo en equipo es fundamental. En el rugby, los jugadores se unen en el scrum para empujar y luchar por el balón. En Scrum, los equipos se unen para colaborar y alcanzar los objetivos del proyecto.\nAmbos enfatizan la importancia de la sincronización, la comunicación y el apoyo mutuo entre los miembros del equipo.\nEl rugby es un deporte dinámico donde las situaciones cambian constantemente. Los jugadores deben adaptarse y ajustar sus estrategias en tiempo real. De manera similar, Scrum promueve la adaptabilidad a los cambios en los requisitos del proyecto.\n\n\n\nEs centrado en el cliente.\nEntrega continua permite manejar un paso sostenible, indefinidamente.\nPermite manejar un ambiente donde los requisitos cambian constantemente.\n\nScrum como metodología se compone de (Roles Scrum) y: - 6 Principios Scrum - 5 Aspectos Scrum - 19 Procesos Scrum con fases - Iniciar - Planificar y Estimar - Implementar - Revisar y retrospectiva - Lanzamiento\n\n\n\nSon todos obligatorios\n\nControl de procesos empíricos:\n\n\nScrum se basa en la experiencia y la observación, no en planes rígidos. Las decisiones se toman en función de lo que se aprende durante el desarrollo.\nSe promueve la transparencia, la inspección y la adaptación continua.\n\n\nAutoorganización:\n\n\nLos equipos Scrum se autogestionan y deciden cómo realizar el trabajo. Se fomenta la autonomía la consciencia, articulación, y apropiación. Se cree que los equipos son más productivos cuando tienen control sobre su propio trabajo.\n\n\nColaboración:\n\n\nScrum enfatiza la comunicación y la cooperación entre todos los involucrados. Se busca un ambiente de trabajo en equipo donde todos aporten y se apoyen mutuamente. La colaboración entre los interesados, el equipo de desarrollo y el product owner es fundamental.\n\n\nPriorización basada en valor:\n\n\nEl Product Owner prioriza las funcionalidades del producto según su valor para el cliente. El equipo se enfoca en entregar primero las funcionalidades más importantes. Se busca maximizar el retorno de la inversión al entregar valor de forma temprana y continua.\n\n\nTime-boxing (Bloque de tiempo asignado):\n\n\nLos eventos de Scrum tienen una duración fija (time-box). Esto ayuda a mantener el enfoque y la disciplina. Los Sprints son time boxed, al igual que los Daily scrum, el Sprint review y el Sprint retrospective.\n\n\nDesarrollo iterativo:\n\n\nEl trabajo se divide en ciclos cortos llamados Sprints. En cada Sprint, se entrega un incremento de producto funcional. Esto permite obtener retroalimentación temprana y realizar ajustes continuos.\n\n\n\n\n\nOrganización: Este aspecto se refiere a la estructura del equipo Scrum y cómo se organiza para trabajar de manera efectiva. Involucra la definición de roles (como el Product Owner, Scrum Master y el Equipo de Desarrollo) y la forma en que interactúan entre sí.\nJustificación de Negocio: Se centra en el valor que el proyecto aporta al negocio. Implica comprender las necesidades del cliente, definir los objetivos del producto y asegurarse de que el trabajo del equipo esté alineado con las prioridades del negocio.\nCalidad: La calidad es un aspecto fundamental en Scrum. Se refiere a la entrega de un producto que cumpla con los estándares de calidad definidos. Esto implica realizar pruebas, revisiones y mejoras continuas a lo largo del proceso de desarrollo.\nCambio: Scrum reconoce que los requisitos pueden cambiar durante el desarrollo. Este aspecto se refiere a la capacidad del equipo para adaptarse a los cambios y responder de manera flexible a las nuevas necesidades.\nRiesgo: Todo proyecto conlleva riesgos. Scrum aborda el riesgo de manera proactiva, identificando y mitigando los posibles problemas que puedan surgir durante el desarrollo.\n\n\n\nPropietario del Producto (Product Owner):\n\nEste rol representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. El Product Owner define la visión del producto, prioriza el backlog del producto y asegura que el equipo de desarrollo comprenda los requisitos.\n\nScrum Master:\n\nEl Scrum Master es un facilitador que ayuda al equipo Scrum a seguir los principios y prácticas de Scrum. Elimina impedimentos, facilita las reuniones y se asegura de que el equipo esté trabajando de manera efectiva.\n\nEquipo de Desarrollo (Development Team):\n\nEl equipo de desarrollo es responsable de entregar el incremento del producto en cada Sprint. Los miembros del equipo son autoorganizados y multifuncionales, lo que significa que tienen las habilidades necesarias para completar el trabajo.\n\n\n\n\n\nA ver, un proyecto tiene un Product Backlog de requisitos priorizados.\nUn product owner para hacer eso. Se hace con 19 actividades, metidas en 5 fases.\nHay algunos inputs, outputs y herramientas que pueden o no ser obligatorios.\n\nInicializar:\n\nCrear vision de producto. Se identifica Product Owner.\nIdentificar Scrum Master y Business Stakeholder (como cliente/usuario).\nFormar Scrum Team.\nDesarrollar Epicas.\nCrear un Product Backlog (Priorizado). Las epicas se elaboran y priorizadas.\nRelease Planning. Compartible con stakeholders.\nEstimar.\nCrear Historias de usuario. (Usualmente por PO (Product Owner) y requiere al team).\nEstimar historias de usuario.\nCommit historias de usuario.\nIdentificar tareas.\nEstimar Tareas(op).\nActualizar Backlog.\n\nImplementar:\n\nCrear Entregables.\nConducir la Daily Standup Meeting.\nRefinar Backlog Priorizado.\nDemostrar y validar Sprint.\nRestrospectiva de Sprint.\n\nRelease\n\nShippear los entregables.\nRetrospectiva de lanzamiento.\n\n\n\n\n\n\nReunion de Visión de Proyecto\nUser group y Focus groups para levantar las historias de usuarios.\nSesiones de release planning.\nRevisión de Backlog\nSprint planning\nDailys\nSprint Reviews\nRetrospect Sprint Meeting\nRetrospect Release Meeting\n\n\n\n\nSoftware sobre documentación. Escalar Scrum se hace con equipos pequeños que se sincronizan entre sí.\n\n\n\n\nAgile es un enfoque o filosofía para la gestión de proyectos, especialmente en el desarrollo de software. Se centra en la flexibilidad, la adaptación y la entrega continua de valor. Se basa en la idea de que los requisitos de los proyectos pueden cambiar rápidamente, por lo que es importante poder adaptarse a esos cambios. Se busca la colaboración constante con el cliente y la retroalimentación continua.\n\n\n\n\n\nPriorizar la satisfacción del cliente. Aceptar los cambios en los requisitos. Entregar software funcional con frecuencia. Fomentar la colaboración entre los equipos. Promover la mejora continua."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#por-qué-scrum",
+    "href": "Gestion de proyectos/scrum_intro.html#por-qué-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Es centrado en el cliente.\nEntrega continua permite manejar un paso sostenible, indefinidamente.\nPermite manejar un ambiente donde los requisitos cambian constantemente.\n\nScrum como metodología se compone de (Roles Scrum) y: - 6 Principios Scrum - 5 Aspectos Scrum - 19 Procesos Scrum con fases - Iniciar - Planificar y Estimar - Implementar - Revisar y retrospectiva - Lanzamiento"
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#principios-scrum",
+    "href": "Gestion de proyectos/scrum_intro.html#principios-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Son todos obligatorios\n\nControl de procesos empíricos:\n\n\nScrum se basa en la experiencia y la observación, no en planes rígidos. Las decisiones se toman en función de lo que se aprende durante el desarrollo.\nSe promueve la transparencia, la inspección y la adaptación continua.\n\n\nAutoorganización:\n\n\nLos equipos Scrum se autogestionan y deciden cómo realizar el trabajo. Se fomenta la autonomía la consciencia, articulación, y apropiación. Se cree que los equipos son más productivos cuando tienen control sobre su propio trabajo.\n\n\nColaboración:\n\n\nScrum enfatiza la comunicación y la cooperación entre todos los involucrados. Se busca un ambiente de trabajo en equipo donde todos aporten y se apoyen mutuamente. La colaboración entre los interesados, el equipo de desarrollo y el product owner es fundamental.\n\n\nPriorización basada en valor:\n\n\nEl Product Owner prioriza las funcionalidades del producto según su valor para el cliente. El equipo se enfoca en entregar primero las funcionalidades más importantes. Se busca maximizar el retorno de la inversión al entregar valor de forma temprana y continua.\n\n\nTime-boxing (Bloque de tiempo asignado):\n\n\nLos eventos de Scrum tienen una duración fija (time-box). Esto ayuda a mantener el enfoque y la disciplina. Los Sprints son time boxed, al igual que los Daily scrum, el Sprint review y el Sprint retrospective.\n\n\nDesarrollo iterativo:\n\n\nEl trabajo se divide en ciclos cortos llamados Sprints. En cada Sprint, se entrega un incremento de producto funcional. Esto permite obtener retroalimentación temprana y realizar ajustes continuos."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#aspectos-scrum",
+    "href": "Gestion de proyectos/scrum_intro.html#aspectos-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Organización: Este aspecto se refiere a la estructura del equipo Scrum y cómo se organiza para trabajar de manera efectiva. Involucra la definición de roles (como el Product Owner, Scrum Master y el Equipo de Desarrollo) y la forma en que interactúan entre sí.\nJustificación de Negocio: Se centra en el valor que el proyecto aporta al negocio. Implica comprender las necesidades del cliente, definir los objetivos del producto y asegurarse de que el trabajo del equipo esté alineado con las prioridades del negocio.\nCalidad: La calidad es un aspecto fundamental en Scrum. Se refiere a la entrega de un producto que cumpla con los estándares de calidad definidos. Esto implica realizar pruebas, revisiones y mejoras continuas a lo largo del proceso de desarrollo.\nCambio: Scrum reconoce que los requisitos pueden cambiar durante el desarrollo. Este aspecto se refiere a la capacidad del equipo para adaptarse a los cambios y responder de manera flexible a las nuevas necesidades.\nRiesgo: Todo proyecto conlleva riesgos. Scrum aborda el riesgo de manera proactiva, identificando y mitigando los posibles problemas que puedan surgir durante el desarrollo.\n\n\n\nPropietario del Producto (Product Owner):\n\nEste rol representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. El Product Owner define la visión del producto, prioriza el backlog del producto y asegura que el equipo de desarrollo comprenda los requisitos.\n\nScrum Master:\n\nEl Scrum Master es un facilitador que ayuda al equipo Scrum a seguir los principios y prácticas de Scrum. Elimina impedimentos, facilita las reuniones y se asegura de que el equipo esté trabajando de manera efectiva.\n\nEquipo de Desarrollo (Development Team):\n\nEl equipo de desarrollo es responsable de entregar el incremento del producto en cada Sprint. Los miembros del equipo son autoorganizados y multifuncionales, lo que significa que tienen las habilidades necesarias para completar el trabajo."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#procesos-scrum",
+    "href": "Gestion de proyectos/scrum_intro.html#procesos-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "A ver, un proyecto tiene un Product Backlog de requisitos priorizados.\nUn product owner para hacer eso. Se hace con 19 actividades, metidas en 5 fases.\nHay algunos inputs, outputs y herramientas que pueden o no ser obligatorios.\n\nInicializar:\n\nCrear vision de producto. Se identifica Product Owner.\nIdentificar Scrum Master y Business Stakeholder (como cliente/usuario).\nFormar Scrum Team.\nDesarrollar Epicas.\nCrear un Product Backlog (Priorizado). Las epicas se elaboran y priorizadas.\nRelease Planning. Compartible con stakeholders.\nEstimar.\nCrear Historias de usuario. (Usualmente por PO (Product Owner) y requiere al team).\nEstimar historias de usuario.\nCommit historias de usuario.\nIdentificar tareas.\nEstimar Tareas(op).\nActualizar Backlog.\n\nImplementar:\n\nCrear Entregables.\nConducir la Daily Standup Meeting.\nRefinar Backlog Priorizado.\nDemostrar y validar Sprint.\nRestrospectiva de Sprint.\n\nRelease\n\nShippear los entregables.\nRetrospectiva de lanzamiento."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#ceremonias-scrum",
+    "href": "Gestion de proyectos/scrum_intro.html#ceremonias-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Reunion de Visión de Proyecto\nUser group y Focus groups para levantar las historias de usuarios.\nSesiones de release planning.\nRevisión de Backlog\nSprint planning\nDailys\nSprint Reviews\nRetrospect Sprint Meeting\nRetrospect Release Meeting"
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#consideraciones-misceláneas",
+    "href": "Gestion de proyectos/scrum_intro.html#consideraciones-misceláneas",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Software sobre documentación. Escalar Scrum se hace con equipos pequeños que se sincronizan entre sí.\n\n\n\n\nAgile es un enfoque o filosofía para la gestión de proyectos, especialmente en el desarrollo de software. Se centra en la flexibilidad, la adaptación y la entrega continua de valor. Se basa en la idea de que los requisitos de los proyectos pueden cambiar rápidamente, por lo que es importante poder adaptarse a esos cambios. Se busca la colaboración constante con el cliente y la retroalimentación continua."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#principios-clave",
+    "href": "Gestion de proyectos/scrum_intro.html#principios-clave",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Priorizar la satisfacción del cliente. Aceptar los cambios en los requisitos. Entregar software funcional con frecuencia. Fomentar la colaboración entre los equipos. Promover la mejora continua."
+  },
+  {
+    "objectID": "Gestion de proyectos/scrum_intro.html#marco-de-trabajo-específico",
+    "href": "Gestion de proyectos/scrum_intro.html#marco-de-trabajo-específico",
+    "title": "SCRUM",
+    "section": "Marco de trabajo específico:",
+    "text": "Marco de trabajo específico:\nScrum es un marco de trabajo ágil específico que ayuda a los equipos a implementar los principios de Agile. Proporciona una estructura para la gestión de proyectos, con roles, eventos y artefactos definidos. Se basa en la división del trabajo en ciclos cortos llamados “sprints”. Scrum es la metodología ágil más popular. Elementos clave: - Roles: Product Owner, Scrum Master, Equipo de Desarrollo. - Eventos: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Artefactos: Product Backlog, Sprint Backlog, Incremento.\nRelación entre Agile y Scrum\nScrum es una de las muchas formas de implementar Agile. Agile es la filosofía, y Scrum es una forma práctica de ponerla en práctica. Scrum proporciona un marco de trabajo que ayuda a los equipos a ser ágiles. En resumen, podrías decir que todo equipo de Scrum es un equipo Ágil, pero no todos los equipos ágiles utilizan Scrum."
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/4.html",
+    "href": "Algebra en Ciencia de Datos/4.html",
+    "title": "4",
+    "section": "",
+    "text": "Un espacio métrico es un par \\((E,d)\\) donde\n\\(E\\) es conjunto\n\n\nPara comparaciones se traduce en diferentes formas de definir distancias…\nComo sea que se definan, usualmente no solo de forma exacta sino que se aproximan (con métodos numéricos) que van a converger (si la métrica permite convergencia, no como una discreta).\n\n\nBig O Notation for some reason denota la velocidad con la que una secuencia de \\(\\{x_n\\}\\) con la que se aproxima a su límite.\nLa razón debe ser porque si uno ve la secuencia como el tamaño del input inicial pero siendo generado one at a time. Así es como complejidad con base en los datos pero los datos son implícitos en un generador (de los elementos de la secuencia).\nk- means funciona muy lindo cuando los datos vienen de mixturas gaussianas (normal multivariada), cuando son como elipses. Otherwise maybe reconsider.\nVector support machine?\n\n\n\n\nOk es un espacio métrico, pero es un par \\((V, ||\\cdot||)\\) donde V es ahora un espacio vectorial y la norma.\n#Importante\nNo toda métrica proviene de una norma pero toda norma tiene métrica.\nUno tiene que saber calcular cuantos pasos va a tardar un algoritmo dado una métrica y epsilon para.\n\n\n\nl espectral se supone que es la euclidiana\nl infinito norma inducida es la suma de filas y se saca el máximo\nl 1 es suma por columnas y se saca el máximo.\nse usa desigualdad de Chebyshev para detección de datos atípicos\n\nimport polars\n\nBTW Para detectar outliers se usan las distancias de Mahalanobis\nEsto es un estimador paramétrico (o sa que hay que chequear que se cumplen sus suposiciones)\nPara esto hay que chequear que los datos vengan de gaussianas (normal multivariado, hay tests estadísitcos para chequear)\nTambién se usan distancias de\nMatrices definidas positivas son matrices donde cada elemento es \\(a_{ij}\\geq 0\\)\nEn optimización esto garantiza convexidad\nla matriz de covarianza es definida positiva (excepto cuando hay degeneraciones)\npermite definir distancias como \\(||x||^2_A=&lt;x,Ax&gt;\\)"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/4.html#métricas-en-aplicaciones",
+    "href": "Algebra en Ciencia de Datos/4.html#métricas-en-aplicaciones",
+    "title": "4",
+    "section": "",
+    "text": "Para comparaciones se traduce en diferentes formas de definir distancias…\nComo sea que se definan, usualmente no solo de forma exacta sino que se aproximan (con métodos numéricos) que van a converger (si la métrica permite convergencia, no como una discreta).\n\n\nBig O Notation for some reason denota la velocidad con la que una secuencia de \\(\\{x_n\\}\\) con la que se aproxima a su límite.\nLa razón debe ser porque si uno ve la secuencia como el tamaño del input inicial pero siendo generado one at a time. Así es como complejidad con base en los datos pero los datos son implícitos en un generador (de los elementos de la secuencia).\nk- means funciona muy lindo cuando los datos vienen de mixturas gaussianas (normal multivariada), cuando son como elipses. Otherwise maybe reconsider.\nVector support machine?"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/4.html#espacios-normados",
+    "href": "Algebra en Ciencia de Datos/4.html#espacios-normados",
+    "title": "4",
+    "section": "",
+    "text": "Ok es un espacio métrico, pero es un par \\((V, ||\\cdot||)\\) donde V es ahora un espacio vectorial y la norma.\n#Importante\nNo toda métrica proviene de una norma pero toda norma tiene métrica.\nUno tiene que saber calcular cuantos pasos va a tardar un algoritmo dado una métrica y epsilon para."
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/4.html#normas-matriciales",
+    "href": "Algebra en Ciencia de Datos/4.html#normas-matriciales",
+    "title": "4",
+    "section": "",
+    "text": "l espectral se supone que es la euclidiana\nl infinito norma inducida es la suma de filas y se saca el máximo\nl 1 es suma por columnas y se saca el máximo.\nse usa desigualdad de Chebyshev para detección de datos atípicos\n\nimport polars\n\nBTW Para detectar outliers se usan las distancias de Mahalanobis\nEsto es un estimador paramétrico (o sa que hay que chequear que se cumplen sus suposiciones)\nPara esto hay que chequear que los datos vengan de gaussianas (normal multivariado, hay tests estadísitcos para chequear)\nTambién se usan distancias de\nMatrices definidas positivas son matrices donde cada elemento es \\(a_{ij}\\geq 0\\)\nEn optimización esto garantiza convexidad\nla matriz de covarianza es definida positiva (excepto cuando hay degeneraciones)\npermite definir distancias como \\(||x||^2_A=&lt;x,Ax&gt;\\)"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/2.html",
+    "href": "Algebra en Ciencia de Datos/2.html",
+    "title": "2",
+    "section": "",
+    "text": "\\(Ax=b\\) es un sistema de ecuaciones\n\\(Ax=0\\) es un sistema homogeneo\n\n\nLa técnica es primero solucionar el sistema homogeneo, y sumarle la solucion particular dada . Forma escalonada, escalonada reducida.\nforma \\(x^*=x^p+x^0\\)\n3, 0, 0, 0, -1, 1 1, 0, -2, -4, 0, 0 0, 0, 0, 1, 2, 0\nr2+=4r3\n3, 0, 0, 0, -1, 1 1, 0, -2, 0 , 8, 0 0, 0, 0, 1, 2, 0\nr2 in r1\n1, 0, -2, 0 , 8, 0 3, 0, 0, 0, -1, 1 0, 0, 0, 1, 2, 0\nr2-=3r1\n1, 0, -2, 0 , 8, 0 0, 0, 6, 0, -25, 1 0, 0, 0, 1, 2, 0\nr2/6\n1, 0, -2, 0 , 8, 0 0, 0, 1, 0, -25/6, 1 0, 0, 0, 1, 2, 0\n\n\n\nIts fun para analizar relaciones lineal y dispersion de los datos. Usada para calcular Pearson. Se crea con el vector de medias.\na = np.array([[1, 2], [3, 4]])\nnp.mean(a)\n2.5\n\nnp.mean(a, axis=0)\narray([2., 3.])\n\nnp.mean(a, axis=1)\narray([1.5, 3.5])"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/2.html#matriz-de-covarianza",
+    "href": "Algebra en Ciencia de Datos/2.html#matriz-de-covarianza",
+    "title": "2",
+    "section": "",
+    "text": "Its fun para analizar relaciones lineal y dispersion de los datos. Usada para calcular Pearson. Se crea con el vector de medias.\na = np.array([[1, 2], [3, 4]])\nnp.mean(a)\n2.5\n\nnp.mean(a, axis=0)\narray([2., 3.])\n\nnp.mean(a, axis=1)\narray([1.5, 3.5])"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/1.html",
+    "href": "Algebra en Ciencia de Datos/1.html",
+    "title": "Algebra",
+    "section": "",
+    "text": "3 examenes 17% 1 proyecto Proyecto integrador de materias 35%\nProfe: dffonsecav@eafit.edu.co lunes 2-3pm, virtual."
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/1.html#representaciones-de-datos-mediante-tensores",
+    "href": "Algebra en Ciencia de Datos/1.html#representaciones-de-datos-mediante-tensores",
+    "title": "Algebra",
+    "section": "Representaciones de datos mediante Tensores",
+    "text": "Representaciones de datos mediante Tensores\nndarrays, and shit ### escalar numero. orden 0 \\(a \\in \\mathbb{R}\\) ### vector un vector es un conjunto ordenado de \\(n\\) números. El vector tiene dimensión \\(n\\).\nhay vector columna (vertical) y renglón (horizontal).\nvector 0, tiene componentes 0.\norden 1 \\(v \\in \\mathbb{R}^n\\) ### matriz Generalización de vector. Tiene dimensión \\(m \\times n\\).\nSI \\(m=n\\) decimos que la matriz es cuadrada.\nDos matrices son iguales si son iguales componente a componente. (deben tener iguales dimensiones)\nmatriz 0 tiene componentes 0.\nAww se llama así porque es la madre de los determinantes.\norden 2 \\(M \\in \\mathbb{R}^{m\\times n}\\) ### tensor\ndimensiones \\(d_1\\times d_2\\times ... \\times d_N\\)\nndarray bs\norden \\(N\\) \\(M \\in \\mathbb{R}^{d_1\\times d_2\\times ... \\times d_N}\\)\n\nEjemplo aplicacion de tensores\nen computer vision, imagenes RGB son tensores \\(\\mathbb{R}^{Height x Width x Color channels (3 in RGB)}\\)\nSi uno tiene una serie de tiempo (apple stock in time) es un vector. Un panel de varios stocks puede ser una matriz.\n\n\nGrafos como matrices\nMatriz de adyacencia: \\(A\\) Dice que arcos se conectan con que otros\nMatriz de grado \\(D\\) dice el numero de arcos que tiene cada vertice\nMatriz Laplaciana \\(L=D-A\\) es útil en analisis espectral de grafos\nContar arboles de minima expansion. #SearchLater\nHay tareas en las diapositivas de dibujar grafos\n\n\nMatrices de Frecuencia de Términos\nUtil en NLP y minería de datos. Para determinar relevancia de un termino, sirve ver frecuencias. Sirve como representación de datos para redes neuronales. ## Optimización divertidas para la vida: SIMD y GEMM"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/1.html#mul-add-de-matrices",
+    "href": "Algebra en Ciencia de Datos/1.html#mul-add-de-matrices",
+    "title": "Algebra",
+    "section": "Mul ADD de matrices",
+    "text": "Mul ADD de matrices\nSe \\(A\\in \\mathbb{R}^{mxn}\\) y \\(B \\in \\mathbb{R}^{nxk}\\) entonces \\(C=AB\\ \\in \\mathbb{R}^{mxk}\\)\n\nInversas\nUna matriz invertible es regular o singular.\nno invertible es no singular.\nCapital inicial es el del S&P500 el 1 de enero\n\n\nMul Tensor matriz\nVale la pena hacerlo\nProducto de hadamard es producto componenete a componente\nProducto de contracción de índices: Se suman los valores en los ejes compartidos\n\n\nTransposición en tensores\nAquí hay más que filas y columnas, transponer es permutar las dimensiones y ejes.\n\n\nMultiplicacion en modo 1\nSi \\(T\\in \\mathbb{R}^{3x4x2}\\) y \\(M \\in \\mathbb{R}^{3x2}\\) \\(TxM=T\\in\\mathbb{R}^{2x4x2}\\)\n[[Algebra en Ciencia de Datos/2]]"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/3.html",
+    "href": "Algebra en Ciencia de Datos/3.html",
+    "title": "3",
+    "section": "",
+    "text": "Los sistemas de ecuaciones, matrices, tensores, hacen parte de los espacios vectoriales.\n#Importante El conjunto de matrices invertibles es un espacio vectorial. (recordar si son invertibles, tienen determinante !=0)\n\n\n#FIXME\nSea \\(V\\) un espacio vectorial real si \\(\\forall x,y,z \\in V\\ \\alpha, \\beta \\in \\mathbb{R}\\).\n10 propiedades.\n[[Algebra en Ciencia de Datos/2]]\n\n\nUn subconjunto \\(H\\) de \\(V\\) es un subconjunto que también cumple con ser un espacio vectorial.\nPara comprobar que algo es subespacio es más fácil. Hay que probar 1. \\(x+y\\in H\\) 2. \\(\\alpha x \\in H\\) #Importante Estas dos propiedades implican que todo subespacio debe contener al vector \\(0\\).\nEj: \\(V=\\mathbb{R}^2=\\{(x_1,x_2)| x_1,x_2\\in \\mathbb{R}\\}\\) \\(H=\\mathbb{R}=\\{(x_1,0)| x_1\\in \\mathbb{R}\\}\\) H es subespacio vectorial :3\nEj: \\(H=\\{(x,y,z) \\in \\mathbb{R}^3 : x=at,y=bt,z=ct,\\ con\\ a,b,c,t \\in \\mathbb{R} \\}\\) entonces \\(x+y=(a(t_1+t_2),b(t_1+t_2), c(t_1+t_2))\\) \\(\\alpha x=(\\alpha at, \\alpha bt, \\alpha ct)\\) Yay, por tanto H si es subespacio.\n\n\n\nSi \\(H_1\\) y \\(H_2\\) son subespacios lineales, \\(H_1\\cap H_2\\) es un subespacio vectorial\nEj: Si dos planos que pasan por el origen le quiero sacar una intersección, obtengo una recta que pasa por el origen (o plano si \\(H_1=H_2\\) pero ew)\n\n\n\n\nHay que buscar \\(c_1c_2c_3\\) !=0 que hagan que \\[c_1x_1+c_2x_2+c_3x_3=0\\] \\[A=|x_1\\quad x_2\\quad x_3|=|0|\\] Haciendo Gauss Jordan ahí, si hay dependencia, habrá una fila de ceros o # de columnas pivote menor que columnas.\n\n\n\nSi un conjunto de vectores \\(B\\), para un espacio vectorial \\(V\\) cumple: 1. \\(B\\) es conjunto generagor de \\(V\\), es decir, \\(span(B)=V\\) 2. Los vectores \\(b_i \\in B\\) son linealmente independientes.\nPara un \\(V\\) es equivalente decir: \\(B\\) es base de \\(V\\) \\(B\\) es conjunto generador minimal (necesito minimo ese numero de elementos, sino no voy a generar \\(V\\)) \\(B\\) es conjunto linealmente maximal (no va a haber un conjunto con mayor numero de elementos, no sería linealmente independiente) Cada vector \\(x \\in V\\) se puedes escribir en terminos de los \\(b_i \\in B\\)\n\n\nsi tengo la base canonica en R3 y luego(1,1,0) (0,1,0)(0,0,1)\n\n\n\nun isomorfismo es una transformación lineal biyectiva (un cambio de base es un isomorfismo) un endomorfismo es una transformación de V en si mismo) y automorfismo (endomorfismo biyectivo)\n\n\nDos espacios vectoriales \\(V,W\\) son isomorfos si, Y SOLO SI BABY si \\(dim(V)=dim(W)\\). Tonces todos los espacios vectoriales de misma dimension son equivalentes, no hay perdida de información.\n💕💕💕💕\n\\[\\rho\\phi\\Phi\\gamma\\psi\\Psi\\]\nImportante, el kernel (nucleo, espacio nulo) se le sacan bases, chequear si tiene muchos elementos sirve para validar si hay inyectividad.\nLa Imagen\n$$:VW$$\n\\[\nker(\\phi)=\\{v\\in V:\\phi(v)=o_w\\}\n\\]\nTeorema\n\\[\ndim(ker(\\phi))+dim(Im(\\phi))=dim(V)\n\\]\nComo encontrar una base para una imagen.\nIM(A) =…=dim(CA),\n1,-1,3\n2,0,4\n-1,-3,1"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/3.html#definición-de-un-espacio-vectorial",
+    "href": "Algebra en Ciencia de Datos/3.html#definición-de-un-espacio-vectorial",
+    "title": "3",
+    "section": "",
+    "text": "#FIXME\nSea \\(V\\) un espacio vectorial real si \\(\\forall x,y,z \\in V\\ \\alpha, \\beta \\in \\mathbb{R}\\).\n10 propiedades.\n[[Algebra en Ciencia de Datos/2]]\n\n\nUn subconjunto \\(H\\) de \\(V\\) es un subconjunto que también cumple con ser un espacio vectorial.\nPara comprobar que algo es subespacio es más fácil. Hay que probar 1. \\(x+y\\in H\\) 2. \\(\\alpha x \\in H\\) #Importante Estas dos propiedades implican que todo subespacio debe contener al vector \\(0\\).\nEj: \\(V=\\mathbb{R}^2=\\{(x_1,x_2)| x_1,x_2\\in \\mathbb{R}\\}\\) \\(H=\\mathbb{R}=\\{(x_1,0)| x_1\\in \\mathbb{R}\\}\\) H es subespacio vectorial :3\nEj: \\(H=\\{(x,y,z) \\in \\mathbb{R}^3 : x=at,y=bt,z=ct,\\ con\\ a,b,c,t \\in \\mathbb{R} \\}\\) entonces \\(x+y=(a(t_1+t_2),b(t_1+t_2), c(t_1+t_2))\\) \\(\\alpha x=(\\alpha at, \\alpha bt, \\alpha ct)\\) Yay, por tanto H si es subespacio.\n\n\n\nSi \\(H_1\\) y \\(H_2\\) son subespacios lineales, \\(H_1\\cap H_2\\) es un subespacio vectorial\nEj: Si dos planos que pasan por el origen le quiero sacar una intersección, obtengo una recta que pasa por el origen (o plano si \\(H_1=H_2\\) pero ew)"
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/3.html#algo-de-chequear-independencia-lineal",
+    "href": "Algebra en Ciencia de Datos/3.html#algo-de-chequear-independencia-lineal",
+    "title": "3",
+    "section": "",
+    "text": "Hay que buscar \\(c_1c_2c_3\\) !=0 que hagan que \\[c_1x_1+c_2x_2+c_3x_3=0\\] \\[A=|x_1\\quad x_2\\quad x_3|=|0|\\] Haciendo Gauss Jordan ahí, si hay dependencia, habrá una fila de ceros o # de columnas pivote menor que columnas."
+  },
+  {
+    "objectID": "Algebra en Ciencia de Datos/3.html#bases-y-conjuntos-generadores",
+    "href": "Algebra en Ciencia de Datos/3.html#bases-y-conjuntos-generadores",
+    "title": "3",
+    "section": "",
+    "text": "Si un conjunto de vectores \\(B\\), para un espacio vectorial \\(V\\) cumple: 1. \\(B\\) es conjunto generagor de \\(V\\), es decir, \\(span(B)=V\\) 2. Los vectores \\(b_i \\in B\\) son linealmente independientes.\nPara un \\(V\\) es equivalente decir: \\(B\\) es base de \\(V\\) \\(B\\) es conjunto generador minimal (necesito minimo ese numero de elementos, sino no voy a generar \\(V\\)) \\(B\\) es conjunto linealmente maximal (no va a haber un conjunto con mayor numero de elementos, no sería linealmente independiente) Cada vector \\(x \\in V\\) se puedes escribir en terminos de los \\(b_i \\in B\\)\n\n\nsi tengo la base canonica en R3 y luego(1,1,0) (0,1,0)(0,0,1)\n\n\n\nun isomorfismo es una transformación lineal biyectiva (un cambio de base es un isomorfismo) un endomorfismo es una transformación de V en si mismo) y automorfismo (endomorfismo biyectivo)\n\n\nDos espacios vectoriales \\(V,W\\) son isomorfos si, Y SOLO SI BABY si \\(dim(V)=dim(W)\\). Tonces todos los espacios vectoriales de misma dimension son equivalentes, no hay perdida de información.\n💕💕💕💕\n\\[\\rho\\phi\\Phi\\gamma\\psi\\Psi\\]\nImportante, el kernel (nucleo, espacio nulo) se le sacan bases, chequear si tiene muchos elementos sirve para validar si hay inyectividad.\nLa Imagen\n$$:VW$$\n\\[\nker(\\phi)=\\{v\\in V:\\phi(v)=o_w\\}\n\\]\nTeorema\n\\[\ndim(ker(\\phi))+dim(Im(\\phi))=dim(V)\n\\]\nComo encontrar una base para una imagen.\nIM(A) =…=dim(CA),\n1,-1,3\n2,0,4\n-1,-3,1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qalg",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

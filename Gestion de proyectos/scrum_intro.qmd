@@ -70,15 +70,15 @@ Son todos obligatorios
 
 Propietario del Producto (Product Owner):
 
-    Este rol representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. El Product Owner define la visión del producto, prioriza el backlog del producto y asegura que el equipo de desarrollo comprenda los requisitos.
+- Este rol representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. El Product Owner define la visión del producto, prioriza el backlog del producto y asegura que el equipo de desarrollo comprenda los requisitos.
 
 Scrum Master:
 
-    El Scrum Master es un facilitador que ayuda al equipo Scrum a seguir los principios y prácticas de Scrum. Elimina impedimentos, facilita las reuniones y se asegura de que el equipo esté trabajando de manera efectiva.
+- El Scrum Master es un facilitador que ayuda al equipo Scrum a seguir los principios y prácticas de Scrum. Elimina impedimentos, facilita las reuniones y se asegura de que el equipo esté trabajando de manera efectiva.
 
 Equipo de Desarrollo (Development Team):
 
-    El equipo de desarrollo es responsable de entregar el incremento del producto en cada Sprint. Los miembros del equipo son autoorganizados y multifuncionales, lo que significa que tienen las habilidades necesarias para completar el trabajo.
+- El equipo de desarrollo es responsable de entregar el incremento del producto en cada Sprint. Los miembros del equipo son autoorganizados y multifuncionales, lo que significa que tienen las habilidades necesarias para completar el trabajo.
 
 ## Procesos Scrum
 
@@ -102,10 +102,34 @@ Hay algunos inputs, outputs y herramientas que pueden o no ser obligatorios.
    11. Identificar tareas.
    12. Estimar Tareas(op).
    13. Actualizar Backlog.
-2. Implemetar:
+2. Implementar:
    1. Crear Entregables.
    2. Conducir la Daily Standup Meeting.
-   3. 
+   3. Refinar Backlog Priorizado.
+   4. Demostrar y validar Sprint.
+   5. Restrospectiva de Sprint.
+3. Release
+   1. Shippear los entregables.
+   2. Retrospectiva de lanzamiento.
+
+
+## Ceremonias Scrum
+
+1. Reunion de Visión de Proyecto
+2. User group y Focus groups para levantar las historias de usuarios.
+3. Sesiones de release planning.
+4. Revisión de Backlog
+5. Sprint planning
+6. Dailys
+7. Sprint Reviews
+8. Retrospect Sprint Meeting
+9. Retrospect Release Meeting
+
+
+## Consideraciones misceláneas
+
+Software sobre documentación. Escalar Scrum se hace con equipos pequeños que se sincronizan entre sí.
+
 
 
 

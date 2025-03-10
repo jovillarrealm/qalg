@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "qalg"
@@ -8,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Algebra en Ciencia de Datos\1.qmd
+      - Gestion de proyectos\scrum_intro.qmd
+      - Intro a aprendizaje de maquina\1.qmd
 
 format:
   html:

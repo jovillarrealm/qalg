@@ -43,7 +43,7 @@ Son todos obligatorios
 
 - Scrum enfatiza la comunicación y la cooperación entre todos los involucrados. Se busca un ambiente de trabajo en equipo donde todos aporten y se apoyen mutuamente. La colaboración entre los interesados, el equipo de desarrollo y el product owner es fundamental.
 
-4. Priorización basada en valor:
+4. Priorización basada en valor (Value Based Prioritization):
 
 - El Product Owner prioriza las funcionalidades del producto según su valor para el cliente. El equipo se enfoca en entregar primero las funcionalidades más importantes. Se busca maximizar el retorno de la inversión al entregar valor de forma temprana y continua.
 
